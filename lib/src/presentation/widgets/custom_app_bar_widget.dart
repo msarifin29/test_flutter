@@ -14,6 +14,7 @@ class CustomAppBarWidget extends StatelessWidget {
       systemOverlayStyle: const SystemUiOverlayStyle(
         statusBarBrightness: Brightness.light,
         statusBarColor: Colors.white,
+        statusBarIconBrightness: Brightness.dark,
       ),
       toolbarHeight: 95.0,
       title: const Text(
