@@ -1,0 +1,112 @@
+{
+    "data": [
+        {
+            "company": "Square",
+            "job_name": "Marketing",
+            "logo": "assets/images/square.jpg",
+            "min_salary": 3000000,
+            "max_salary": 5000000,
+            "city": "Bali",
+            "status": "Fulltime"
+        },
+        {
+            "company": "Design",
+            "job_name": "Designer",
+            "logo": "assets/images/design.jpg",
+            "min_salary": 5000000,
+            "max_salary": 7000000,
+            "city": "Jakarta",
+            "status": "Fulltime"
+        },
+        {
+            "company": "Slogan",
+            "job_name": "Manager",
+            "logo": "assets/images/slogan.jpg",
+            "min_salary": 7000000,
+            "max_salary": 9000000,
+            "city": "Surabaya",
+            "status": "Fulltime"
+        },
+        {
+            "company": "Square",
+            "job_name": "Marketing",
+            "logo": "assets/images/square.jpg",
+            "min_salary": 3000000,
+            "max_salary": 5000000,
+            "city": "Bali",
+            "status": "Fulltime"
+        },
+        {
+            "company": "Design",
+            "job_name": "Designer",
+            "logo": "assets/images/design.jpg",
+            "min_salary": 5000000,
+            "max_salary": 7000000,
+            "city": "Jakarta",
+            "status": "Fulltime"
+        },
+        {
+            "company": "Slogan",
+            "job_name": "Manager",
+            "logo": "assets/images/slogan.jpg",
+            "min_salary": 7000000,
+            "max_salary": 9000000,
+            "city": "Surabaya",
+            "status": "Fulltime"
+        },
+        {
+            "company": "Square",
+            "job_name": "Marketing",
+            "logo": "assets/images/square.jpg",
+            "min_salary": 3000000,
+            "max_salary": 5000000,
+            "city": "Bali",
+            "status": "Fulltime"
+        },
+        {
+            "company": "Design",
+            "job_name": "Designer",
+            "logo": "assets/images/design.jpg",
+            "min_salary": 5000000,
+            "max_salary": 7000000,
+            "city": "Jakarta",
+            "status": "Fulltime"
+        },
+        {
+            "company": "Slogan",
+            "job_name": "Manager",
+            "logo": "assets/images/slogan.jpg",
+            "min_salary": 7000000,
+            "max_salary": 9000000,
+            "city": "Surabaya",
+            "status": "Fulltime"
+        },
+        {
+            "company": "Square",
+            "job_name": "Marketing",
+            "logo": "assets/images/square.jpg",
+            "min_salary": 3000000,
+            "max_salary": 5000000,
+            "city": "Bali",
+            "status": "Fulltime"
+        },
+        {
+            "company": "Design",
+            "job_name": "Designer",
+            "logo": "assets/images/design.jpg",
+            "min_salary": 5000000,
+            "max_salary": 7000000,
+            "city": "Jakarta",
+            "status": "Fulltime"
+        },
+        {
+            "company": "Slogan",
+            "job_name": "Manager",
+            "logo": "assets/images/slogan.jpg",
+            "min_salary": 7000000,
+            "max_salary": 9000000,
+            "city": "Surabaya",
+            "status": "Fulltime"
+        }
+    ]
+}
